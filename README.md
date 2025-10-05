@@ -48,7 +48,4 @@ Get a basic sales summary from a small SQLite database using Python.
 | 2025-09-04 | ₹175,000  |
 | 2025-09-05 | ₹30,000   |
 
-## How to Run
-1. Clone the repo.  
-2. Run the Jupyter notebook or `sales_summary.py`.  
-3. Check console output, CSV files, and generated charts.
+
